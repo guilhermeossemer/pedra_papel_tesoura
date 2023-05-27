@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669068347 source:c:\users\guilh\onedrive\Área de trabalho\algoritimos\pedra_papel_tesoura\main.cpp
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+
